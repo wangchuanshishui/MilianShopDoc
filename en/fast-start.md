@@ -1,4 +1,4 @@
-# Getting started
+# Fast Start
 
 ## Overview <a href="#overview" id="overview"></a>
 
@@ -15,4 +15,3 @@
 ### Shop decoration design
 
 ### The demo Site <a href="#the-demo-project" id="the-demo-project"></a>
-

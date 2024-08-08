@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 订单取消
 
 ## Fecify 订单取消 <a href="#fecify-ding-dan-qu-xiao" id="fecify-ding-dan-qu-xiao"></a>
